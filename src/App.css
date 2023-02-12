@@ -4,7 +4,6 @@
   min-height: 100vh;
 }
 
-
 h1{
   margin: 0;
   color: #fff;
@@ -16,7 +15,6 @@ h1{
   background-color: rgb(255, 242, 242);
   padding: 8px;
 }
-
 
 .main{
   display: flex;
