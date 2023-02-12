@@ -5,8 +5,6 @@ const Header = () => {
         <div className='header'>
             <h1>SEGAMOVIES.com</h1>
         </div>
-
     )
 }
-
 export default Header
